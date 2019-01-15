@@ -1,0 +1,18 @@
+
+OAuth 2.0 Client ID
+22D9M2 
+
+
+Client Secret
+90f10066947ecbde653e48fe0ecf228c
+
+Callback URL
+http://localhost:8000
+
+OAuth 2.0: Authorization URI
+https://www.fitbit.com/oauth2/authorize
+
+OAuth 2.0: Access/Refresh Token Request URI
+https://api.fitbit.com/oauth2/token 
+
+https://www.fitbit.com/oauth2/authorize?response_type=token&client_id=22942C&redirect_uri=http%3A%2F%2Fexample.com%2Ffitbit_auth&scope=activity%20nutrition%20heartrate%20location%20nutrition%20profile%20settings%20sleep%20social%20weight&expires_in=604800
